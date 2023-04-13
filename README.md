@@ -1,2 +1,0 @@
-# JCYu
-Exercise
